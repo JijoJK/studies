@@ -3,3 +3,7 @@ Welcome to studies
 Core Java
 
 Web
+
+EJB
+
+Structs
